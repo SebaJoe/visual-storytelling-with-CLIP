@@ -1,3 +1,11 @@
+# Visual Storytelling Using CLIP
+
+Final project for the Grounded Natural Language Processing course by Sebastian Joseph and Annabel To.
+
+Details about our project implementation can be found [here](https://docs.google.com/presentation/d/1Sjo37OHJW3xbDW4AUn4B5vAoSYMa7oRFKosmRz30l8g/edit?usp=sharing).
+
+The information below describes the prior work that forms the backbone of our project. Our experiments involve modifying this framework. 
+
 # No Metrics Are Perfect: Adversarial REward Learning for Visual Storytelling
 
 This repo is the implementation of our paper "No Metrics Are Perfect: Adversarial Reward Learning for Visual Storytelling", which also provides a codebase for the task of visual storytelling.
